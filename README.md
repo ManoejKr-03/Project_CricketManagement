@@ -85,3 +85,66 @@ Name, email, password, and role selection (Player/Manager/Admin).
 Optional fields for team or player information (for players).
 Buttons for social media login and forgot password.
 
+--------------------------------------Promp2-----------------------------------------------------------------------
+Homepage:
+
+Navigation bar with links to:
+Home
+Register
+Login
+Teams
+Series
+Matches
+Player Profiles
+Featured series and teams section
+Call-to-action buttons for registering as a player or manager
+User Registration Page:
+
+Form fields for:
+Full Name
+Email Address
+Password
+Role selection (Player, Manager, Admin)
+Submit button
+Link to login page
+User Login Page:
+
+Form fields for:
+Email Address
+Password
+Submit button
+Link to registration page
+Player Profile Page:
+
+Display player's personal information
+Section for fitness stats
+Section for match history
+Option to update profile
+Teams Page:
+
+List of teams with:
+Team Name
+Players in each team
+Option to view team details
+Button to create a new team (for managers)
+Series Page:
+
+List of ongoing and upcoming series with:
+Series Name
+Participating Teams
+Match Schedule
+Button to create a new series (for managers)
+Matches Page:
+
+List of upcoming and past matches with:
+Match Date and Time
+Teams playing
+Option to view match details
+Button to schedule a new match (for managers)
+Admin Dashboard:
+
+Overview of:
+Total players
+Active series and matches
+User management options (view, edit, delete users)
+Buttons for creating reports
